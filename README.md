@@ -1,7 +1,7 @@
 ### Hi there 👋 remember
 
 
-# ❤️ + 💻 can change the 🌍 
+# ❤️ + 💻 is enought to change a 🌍 
 
 <!--
 **dbilovd/dbilovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
